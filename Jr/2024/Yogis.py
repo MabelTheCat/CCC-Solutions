@@ -12,3 +12,6 @@ while size > val:
 
     # Get size of the yogi
     val = int(input())
+
+# Print result
+print(size)
