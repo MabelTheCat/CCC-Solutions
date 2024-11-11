@@ -6,14 +6,11 @@ text = input()
 # Get string to check the cyclic shifts of
 string = input()
 
-# Find all cyclic shifts
-shifts = [string[i:] + string[0:i] for i in range(len(string))]
-
 # Loop over each cyclic shift
-for shift in shifts:
+for i in range(len(string)):
 
-    # Check if the shift is in the text
-    if shift in text:
+    # Calculate cyclic shift and Check if the shift is in the text
+    if string[i:] + string[0:i] in text:
         print("yes")
         break
 
