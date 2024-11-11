@@ -8,7 +8,7 @@
 import java.util.Scanner;
 
 
-public class BasketBall {
+public class WinningScore {
     public static void main(String[] args) {
 
         // Create input scanner
@@ -27,7 +27,7 @@ public class BasketBall {
 
             appleScore += (3-i) * input.nextInt();
         }
-
+        
         // Get point scores for the bananas
         for (int i = 0; i < 3; i++) {
             bananaScore += (3-i) * input.nextInt();
