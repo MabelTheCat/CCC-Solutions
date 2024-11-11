@@ -1,0 +1,36 @@
+Jr
+    2020
+        DogTreats.py (Sucess): https://dmoj.ca/submission/6733963
+        DogTreats.java (Sucess): https://dmoj.ca/submission/6733967
+
+        Epidemiology.py (Sucess): https://dmoj.ca/submission/6733950
+        Art.py (Sucess): https://dmoj.ca/submission/6734002
+
+        CyclicShifts.py (Easy) (Sucess): https://dmoj.ca/submission/6733938
+        CyclicShifts.py (Hard) (TLE): https://dmoj.ca/submission/6733936
+
+    2022
+        CupcakeParty.py (Sucess): https://dmoj.ca/submission/6732271
+        CupcakeParty.java (Sucess): https://dmoj.ca/submission/6732276
+        CupcakeParty.c (Sucess): https://dmoj.ca/submission/6732272
+
+        FergusonballRatings.py (Sucess): https://dmoj.ca/submission/6732299
+        FergusonballRatings.java (Sucess): https://dmoj.ca/submission/6732319
+        FergusonballRatings.c (Sucess): https://dmoj.ca/submission/6732373
+
+        HarpTuning.py (Sucess): https://dmoj.ca/submission/6732449
+        GroupWork.py (Sucess with CCC sample I/O): Problem not found on dmoj to validate
+        
+    2023
+        Deliver-e-droid.py (Sucess): https://dmoj.ca/submission/6732264
+        ChilliPeppers.py (Sucess): https://dmoj.ca/submission/6732249
+        SpecialEvent.py (Sucess): https://dmoj.ca/submission/6732265
+
+    2024
+        Sushi.py (Sucess): https://dmoj.ca/submission/6732190
+        Sushi.java (Sucess): https://dmoj.ca/submission/6732232
+        Sushi.c (Sucess): https://dmoj.ca/submission/6732239
+
+        Yogis.py (Sucess): https://dmoj.ca/submission/6732202
+        BronzeCount.py (Sucess): https://dmoj.ca/submission/6732212
+        TroublesomeKeys.py (Fail)
