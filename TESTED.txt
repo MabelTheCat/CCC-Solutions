@@ -1,9 +1,26 @@
+Key:
+    Sucess: all points earned
+    Fail: Not all points earned
+
 Jr
+    2019
+        WinningScore.py (Sucess): https://dmoj.ca/submission/6734334
+        WinningScore.java (Sucess): https://dmoj.ca/submission/6734336
+        WinningScore.c (Sucess): https://dmoj.ca/submission/6734248
+
+        TimeToDecompress.py (Sucess): https://dmoj.ca/submission/6734133
+        TimeToDecompress.java (Sucess): 
+        TimeToDecompress.c (Sucess): 
+
     2020
         DogTreats.py (Sucess): https://dmoj.ca/submission/6733963
         DogTreats.java (Sucess): https://dmoj.ca/submission/6733967
+        DogTreats.c (Sucess): https://dmoj.ca/submission/6734329
 
         Epidemiology.py (Sucess): https://dmoj.ca/submission/6733950
+        Epidemiology.java (Sucess): https://dmoj.ca/submission/6734090
+        Epidemiology.c (Sucess): https://dmoj.ca/submission/6734097
+
         Art.py (Sucess): https://dmoj.ca/submission/6734002
 
         CyclicShifts.py (Easy) (Sucess): https://dmoj.ca/submission/6733938
