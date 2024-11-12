@@ -28,6 +28,8 @@ Jr
         Epidemiology.c (Sucess): https://dmoj.ca/submission/6734097
 
         Art.py (Sucess): https://dmoj.ca/submission/6734002
+        Art.java (Sucess): https://dmoj.ca/submission/6735803
+        Art.c (Sucess): https://dmoj.ca/submission/6735746
 
         CyclicShifts.py (Easy) (Sucess): https://dmoj.ca/submission/6733938
         CyclicShifts.py (Hard) (TLE): https://dmoj.ca/submission/6733936
