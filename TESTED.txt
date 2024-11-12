@@ -9,8 +9,14 @@ Jr
         WinningScore.c (Sucess): https://dmoj.ca/submission/6734248
 
         TimeToDecompress.py (Sucess): https://dmoj.ca/submission/6734133
-        TimeToDecompress.java (Sucess): 
-        TimeToDecompress.c (Sucess): 
+        TimeToDecompress.java (Sucess): https://dmoj.ca/submission/6734702
+        TimeToDecompress.c (Sucess): https://dmoj.ca/submission/6734688
+
+        ColdCompress.py (Sucess): https://dmoj.ca/submission/6735017
+
+        Flipper.py (Sucess): https://dmoj.ca/submission/6735071
+        Flipper.java (Sucess): https://dmoj.ca/submission/6735128
+        Flipper.c (Sucess): https://dmoj.ca/submission/6735093
 
     2020
         DogTreats.py (Sucess): https://dmoj.ca/submission/6733963
