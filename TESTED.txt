@@ -48,12 +48,12 @@ Jr
         
     2023
         Deliver-e-droid.py (Sucess): https://dmoj.ca/submission/6732264
+        DeliverEDroid.java (Sucess): https://dmoj.ca/submission/6735998
         DeliverEDroid.c (Sucess): https://dmoj.ca/submission/6735980
 
         ChilliPeppers.py (Sucess): https://dmoj.ca/submission/6732249
-        ChilliPeppers.c (Sucess): https://dmoj.ca/submission/6735955
         ChilliPeppers.java (Sucess): https://dmoj.ca/submission/6735993
-
+        ChilliPeppers.c (Sucess): https://dmoj.ca/submission/6735955
 
         SpecialEvent.py (Sucess): https://dmoj.ca/submission/6732265
 
