@@ -13,6 +13,8 @@ Jr
         TimeToDecompress.c (Sucess): https://dmoj.ca/submission/6734688
 
         ColdCompress.py (Sucess): https://dmoj.ca/submission/6735017
+        ColdCompress.java (Sucess): https://dmoj.ca/submission/6745847
+        ColdCompress.c (Sucess): https://dmoj.ca/submission/6738040
 
         Flipper.py (Sucess): https://dmoj.ca/submission/6735071
         Flipper.java (Sucess): https://dmoj.ca/submission/6735128
