@@ -35,6 +35,11 @@ Jr
 
         CyclicShifts.py (Easy) (Sucess): https://dmoj.ca/submission/6733938
         CyclicShifts.py (Hard) (TLE): https://dmoj.ca/submission/6733936
+    
+    2022
+        BoilingWater.py (Sucess): https://dmoj.ca/submission/6751284
+        BoilingWater.java (Sucess): https://dmoj.ca/submission/6751290
+        BoilingWater.c (Sucess): https://dmoj.ca/submission/6751288
 
     2022
         CupcakeParty.py (Sucess): https://dmoj.ca/submission/6732271
