@@ -41,6 +41,10 @@ Jr
         BoilingWater.java (Sucess): https://dmoj.ca/submission/6751290
         BoilingWater.c (Sucess): https://dmoj.ca/submission/6751288
 
+        SilentAuction.py (Sucess): https://dmoj.ca/submission/6751295
+        SilentAuction.java (Sucess): https://dmoj.ca/submission/6751297
+        SilentAuction.c (Sucess): https://dmoj.ca/submission/6751299
+
     2022
         CupcakeParty.py (Sucess): https://dmoj.ca/submission/6732271
         CupcakeParty.java (Sucess): https://dmoj.ca/submission/6732276
