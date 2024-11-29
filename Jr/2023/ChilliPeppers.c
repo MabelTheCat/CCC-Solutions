@@ -1,51 +1,50 @@
 // Owen Bélanger-Love
 #include <stdio.h>
+#include <string.h>
 
 int main() {
     // Initialise variables
     int pepperCount;
-    char userInput[8];
+    char pepper[10];
 
+    // Store the total amoutn of spice
     int totalSpice = 0;
+
+    // Array to store the names of the peppers
+    char pepperNames[6][10] = {"Poblano", "Mirasol", "Serrano", "Cayenne", "Thai", "Harbenaro"};
+
+    // Array to store the spice amounts
+    int spices[6] = {1500, 6000, 15500, 40000, 75000, 125000};
+
 
     // Find amount of peppers
     scanf("%d", &pepperCount);
 
-    // Loop over the peppers
+    // Main loop
     for (int i = 0; i < pepperCount; i++) {
 
-        // Get user input
-        scanf("%s", userInput);
+        // Get the pepper used
+        scanf(" %s", pepper);
 
-        // Check if the pepper is a poblano
-        if (userInput[0] == 'P') {
-            totalSpice += 1500;
+        // Find the index to use
+        int index = 0;
+
+        for (index = 0; index < 5; index++) {
+
+            // Check if it is the correct pepper
+            if (strcmp(pepper, pepperNames[index]) == 0) {
+
+                // End the loop because we found the index we wanted
+                break;
+            }
         }
 
-        // Check if the pepper is a mirasol
-        else if (userInput[0] == 'M') {
-            totalSpice += 6000;
-        }
+        // Now we know the index of the pepper,
+        // so we can get the spice amount
+        int spice = spices[index];
 
-        // Check if the pepper is a serrano
-        else if (userInput[0] == 'S') {
-            totalSpice += 15500;
-        }
-
-        // Check if the pepper is a cayenne
-        else if (userInput[0] == 'C') {
-            totalSpice += 40000;
-        }
-
-        // Check if the pepper is a thai
-        else if (userInput[0] == 'T') {
-            totalSpice += 75000;
-        }
-
-        // The pepper is a harbenaro
-        else {
-            totalSpice += 125000;
-        }
+        // Increase the total spice amount
+        totalSpice += spice;
     }
 
     // Print total spice

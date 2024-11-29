@@ -63,8 +63,8 @@ Jr
         DeliverEDroid.c (Sucess): https://dmoj.ca/submission/6735980
 
         ChilliPeppers.py (Sucess): https://dmoj.ca/submission/6732249
-        ChilliPeppers.java (Sucess): https://dmoj.ca/submission/6735993
-        ChilliPeppers.c (Sucess): https://dmoj.ca/submission/6735955
+        ChilliPeppers.java (Sucess): https://dmoj.ca/submission/6776171
+        ChilliPeppers.c (Sucess): https://dmoj.ca/submission/6776186
 
         SpecialEvent.py (Sucess): https://dmoj.ca/submission/6732265
 

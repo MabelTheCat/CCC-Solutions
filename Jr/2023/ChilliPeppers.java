@@ -5,53 +5,49 @@ import java.util.Scanner;
 public class ChilliPeppers {
     public static void main(String[] args) {
 
+        // Array to store the names of the peppers
+        String [] pepperNames = {"Poblano", "Mirasol", "Serrano", "Cayenne", "Thai", "Harbenaro"};
+
+        // Array to store the spice amounts
+        int [] spices = {1500, 6000, 15500, 40000, 75000, 125000};
+
+        // Initialise the total amount of spice
+        int totalSpice = 0;
+
         // Create input Scanner
         Scanner input = new Scanner(System.in);
 
-        // Initialise pepepr spice
-        int totalSpice = 0;
-    
-        // Find amount of peppers
+        // Get the amount of peppers
         int pepperCount = input.nextInt();
-        
-        // Clear input
+
+        // Clear newline
         input.nextLine();
-        
-        // Loop over the peppers
+
+        // Main loop
         for (int i = 0; i < pepperCount; i++) {
-    
-            // Get user input
+
+            // Get the pepper used
             String pepper = input.nextLine();
-    
-            // Check if the pepper is a poblano
-            if (pepper.charAt(0) == 'P') {
-                totalSpice += 1500;
+
+            // Find the index to use
+            int index = 0;
+
+            for (index = 0; index < 5; index++) {
+
+                // Check if it is the correct pepper
+                if (pepperNames[index].equals(pepper)) {
+
+                    // End the loop because we found the index we wanted
+                    break;
+                }
             }
-    
-            // Check if the pepper is a mirasol
-            else if (pepper.charAt(0) == 'M') {
-                totalSpice += 6000;
-            }
-    
-            // Check if the pepper is a serrano
-            else if (pepper.charAt(0) == 'S') {
-                totalSpice += 15500;
-            }
-    
-            // Check if the pepper is a cayenne
-            else if (pepper.charAt(0) == 'C') {
-                totalSpice += 40000;
-            }
-    
-            // Check if the pepper is a thai
-            else if (pepper.charAt(0) == 'T') {
-                totalSpice += 75000;
-            }
-    
-            // The pepper is a harbenaro
-            else {
-                totalSpice += 125000;
-            }
+
+            // Now we know the index of the pepper,
+            // so we can get the spice amount
+            int spice = spices[index];
+
+            // Increase the total spice amount
+            totalSpice += spice;
         }
     
         // Print total spice
